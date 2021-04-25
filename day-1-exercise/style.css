@@ -1,0 +1,12 @@
+body {
+    background-color: pink;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family:fantasy;
+}
+
+.not-papyrus {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
