@@ -1,12 +1,11 @@
 body {
-    background-color: pink;
+    background-color: #fa80722a;
     font-family:Arial, Helvetica, sans-serif;
 }
 
-p{
-    font-family:fantasy;
+h1{
+    font-family: 'Archivo Black', Arial, Helvetica, sans-serif;
+    letter-spacing: 0.05em;
+    color: #669;
 }
 
-.not-papyrus {
-    font-family:Georgia, 'Times New Roman', Times, serif;
-}
